@@ -1,0 +1,17 @@
+com\baldo\thelibrary\controllers\IndexController.class
+com\baldo\thelibrary\controllers\BookController.class
+com\baldo\thelibrary\domain\Author.class
+com\baldo\thelibrary\services\jpaservices\AbstractJpaDaoService.class
+com\baldo\thelibrary\services\BookService.class
+com\baldo\thelibrary\domain\Book.class
+com\baldo\thelibrary\domain\Publisher.class
+com\baldo\thelibrary\services\jpaservices\AuthorServiceJPADaoImpl.class
+com\baldo\thelibrary\controllers\AuthorController.class
+com\baldo\thelibrary\services\CRUDService.class
+com\baldo\thelibrary\domain\DomainObject.class
+com\baldo\thelibrary\bootstrap\SpringJPABootstrap.class
+com\baldo\thelibrary\domain\AbstractDomainClass.class
+com\baldo\thelibrary\services\jpaservices\BookServiceJPADaoImpl.class
+com\baldo\thelibrary\services\AuthorService.class
+com\baldo\thelibrary\domain\BookCategory.class
+com\baldo\thelibrary\config\WebApplicationContextConfig.class

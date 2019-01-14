@@ -1,0 +1,17 @@
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\domain\Publisher.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\services\CRUDService.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\bootstrap\SpringJPABootstrap.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\controllers\BookController.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\domain\AbstractDomainClass.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\controllers\IndexController.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\services\jpaservices\AuthorServiceJPADaoImpl.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\domain\BookCategory.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\domain\Book.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\config\WebApplicationContextConfig.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\services\AuthorService.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\services\BookService.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\domain\Author.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\domain\DomainObject.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\services\jpaservices\AbstractJpaDaoService.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\services\jpaservices\BookServiceJPADaoImpl.java
+C:\Users\Baldassare Bruno\hibernate\SpringBootTheLibrary3.0\src\main\java\com\baldo\thelibrary\controllers\AuthorController.java
